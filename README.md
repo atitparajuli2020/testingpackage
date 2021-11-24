@@ -2,6 +2,7 @@ A test package built to add two numbers and find the multiple of a given number
 
 Installation
 you can install the package from Github with:
+
 #install.packages("devtools")
 devtools::install_github("atitparajuli2020/testingpackage")
 
