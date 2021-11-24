@@ -18,7 +18,6 @@ library(testingpackage)
 Add two numbers
 
 add (2, 3) 
-
 5
 
 Multiple of a given number (upto 10 multiple)
