@@ -4,7 +4,6 @@ Installation
 you can install the package from Github with:
 
 #install.packages("devtools")
-
 devtools::install_github("atitparajuli2020/testingpackage")
 
 
